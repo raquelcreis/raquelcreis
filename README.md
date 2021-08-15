@@ -11,12 +11,17 @@
   <img align="center" alt="Quel-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
 </div>
 
-## 
-- 🤓  I’m currently learning Marketing Data
-- 🚀  I’m looking to collaborate on Data Analytics and Data Science Projects
-- 🇧🇷  I'm Brazilian living in Brasília-DF
+<div>
+ 
+ ## 
+ 
+#### 🤓    I’m currently learning Marketing Data
+#### 🚀    I’m looking to collaborate on Data Analytics and Data Science Projects
+#### 🇧🇷    I'm Brazilian living in Brasília-DF
   
 ##
+ 
+ </div>
   
 <div> 
   
@@ -25,7 +30,8 @@
   <a href="https://www.kaggle.com/raquelreis" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/raquelreis" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.twitter.com/quelzinhareis" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  
+
+ ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
