@@ -15,7 +15,6 @@
  
  ## 
  
-#### 🤓    I’m currently learning Data Science
 #### 🚀    I’m looking to collaborate on Data Analytics and Data Science Projects
 #### 🇧🇷    Brasília-DF
   
