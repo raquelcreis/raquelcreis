@@ -15,7 +15,7 @@
  
  ## 
  
-#### 🚀    I’m looking to collaborate on Data Analytics and Data Science Projects
+#### 🚀   Lifelong learner, passionate about and moved by challenges! I'm a Data Analyst focused on using data to bring solid insights, answering questions, and communicate results.
 #### 🇧🇷    Brasília-DF
   
 ##
