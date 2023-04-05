@@ -16,7 +16,8 @@
   
  <div style="display: inline_block"><br>
   <img align="center" alt="Quel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Quel-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
+  <img align="center" alt="Quel-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"> 
+
 </div>
 
 <br>
@@ -25,9 +26,7 @@
   
   <a href="https://www.linkedin.com/in/raquelcreis" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:raquelreis233@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-![data_doesnt_lie](https://user-images.githubusercontent.com/64446494/230214626-c0b1284f-ce92-42cf-9656-54f80d1c9c88.gif)
-
+ 
 </div> 
 <div> 
 
