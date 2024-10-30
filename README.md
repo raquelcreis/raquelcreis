@@ -6,9 +6,8 @@
   ### A little bit about me:
 - I'm a Data Analyst with a passion for overcoming challenges 🚀
 - I'm Brazilian and I live in Brasília 🇧🇷
-- I lived in Canada for 1 year and a half 🍁
 - I love connect with people around the world and collaborate with individuals from diverse backgrounds 🌍
-- I'm studying now to become a data engineer 📚
+- I'm currently studying topics related to data engineering. 📚
 - Yeah, I'm kinda addicted to coffee ☕
 
  
